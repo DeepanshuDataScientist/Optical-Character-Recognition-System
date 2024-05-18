@@ -1,11 +1,11 @@
 # Optical-Character-Recognition-System
 
-# Overview
-# Features
-# Installation
-# Usage
-# Dependencies
-# Acknowledgements
+## Overview
+## Features
+## Installation
+## Usage
+## Dependencies
+## Acknowledgements
 
 This is a Streamlit web application for performing Optical Character Recognition (OCR) using Google's Generative AI.
 
